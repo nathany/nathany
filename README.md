@@ -1,6 +1,6 @@
 Hi, I'm Nathan 👋
 
-A self-taught developer from 🇨🇦 Canada, and the ✍️ author of [Get Programming with Go](https://bit.ly/getprogrammingwithgo) (Manning, 2018).
+A self-taught developer from 🇨🇦 Canada and ✍️ author of [Get Programming with Go](https://bit.ly/getprogrammingwithgo) (Manning, 2018).
 
 My web development career spans 28 years across a number of industries, including ecommerce, online dating, exams, and fintech.
 Technologies predominately include ⚡ ColdFusion, SQL, 💎 Ruby on Rails, and 🧪 Elixir -- with a few projects using 🐍 Python, 🐘 PHP, or Go.
