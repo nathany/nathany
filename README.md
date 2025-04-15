@@ -5,7 +5,7 @@ A self-taught developer from 🇨🇦 Canada and ✍️ author of [Get Programmi
 My web development career spans 28 years across a number of industries, including ecommerce, online dating, exams, and fintech.
 Technologies predominately include ⚡ ColdFusion, SQL, 💎 Ruby on Rails, and 🧪 Elixir -- with a few projects using 🐍 Python, 🐘 PHP, or Go.
 
-https://nathany.com
+✍️ https://nathany.com
 
 🩷 https://github.com/sponsors/nathany
 
