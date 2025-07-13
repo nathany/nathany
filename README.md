@@ -2,8 +2,9 @@ Hi, I'm Nathan 👋
 
 A self-taught developer from 🇨🇦 Canada and ✍️ author of [Get Programming with Go](https://bit.ly/getprogrammingwithgo) (Manning, 2018).
 
-My development career spans 28 years across a number of industries, including ecommerce, online dating, exams, and fintech.
-Over the years, I worked predominately with ⚡ ColdFusion, SQL, 💎 Ruby on Rails, and most recently 🧪 Elixir.
+My web development career spans 28 years across a number of industries, including ecommerce, online dating, online exams, and fintech. Over the years, I worked predominately with ⚡ ColdFusion, SQL, 💎 Ruby on Rails, and 🧪 Elixir.
+
+I'm currently learning 🦀 Rust and ☢️ DirectX and writing about it on my blog.
 
 ✍️ [nathany.com](https://nathany.com)
 
